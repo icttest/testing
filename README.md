@@ -2,7 +2,7 @@
 ICT3104 Team05 2
 Nvidia Project
 
-## Installation
+## Installation 1
 Ensure that you have the following installed:
 - [Anaconda](https://www.anaconda.com/products/distribution)
 - Create a virtual environment using the following command:
